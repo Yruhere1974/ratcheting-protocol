@@ -31,13 +31,13 @@ This repo is one piece of the Ummard/Simon ecosystem. To maintain context and pr
 
 ## 🤖 BMAD-Infused Agile Workflows
 
-We have integrated the **BMad Method (BMM)** to provide structured, expert-driven collaboration. Simon2 acts as the **Primary Developer Agent** hosting the BMAD core.
+We have integrated the **BMad Method (BMM)** to provide structured, expert-driven collaboration. The **Primary Agent** hosts the BMAD core and coordinates the workflow.
 
 ### 1. Analysis & Discovery (The Analyst)
 Before architecture, we perform deep discovery.
 - **Asset Discovery:** Proactive Inquiry. Explicitly request real-world samples or data before generating logic. For Greenfield projects, confirm no assets exist before proceeding.
 - **Product Brief:** Define vision, users, and success metrics.
-- **Research:** Perform technical and domain research on Simon2 to ground decisions in data. Dissect acquired assets to identify edge cases.
+- **Research:** Perform technical and domain research to ground decisions in data. Dissect acquired assets to identify edge cases.
 
 ### 2. Solutioning (The Architect)
 Complex shifts require an explicit architecture phase.
@@ -55,7 +55,7 @@ Progress is verified against both functional and security engineering principles
 - **Ratcheting is the Final Lock:** No matter the workflow, the "Click" (Git tag + Handoff) remains the mandatory exit criteria.
 - **DevSecOps Guardian (Mentor):** Invoked during architecture to drive **Reduced Complexity (NIST SA-8(7))** and perform **Criticality Analysis (NIST RA-9)**. Prevents security over-engineering.
 - **SecOps Challenger (Adversary):** Invoked during implementation to challenge **Spaghetti Design (NIST SA-8(3/4))** and validate **Acceptable Security (NIST SA-8(28))**. Ensures the design is testable and user-friendly.
-- **Party Mode:** For high-stakes decisions, invoke multiple personas (Architect, Guardian, Challenger) on Simon2 to stress-test the solution.
-- **Party Mode:** For high-stakes decisions, invoke multiple personas (Architect, Guardian, Challenger) on Simon2 to stress-test the solution.
+- **Party Mode:** For high-stakes decisions, invoke multiple personas (Architect, Guardian, Challenger) to stress-test the solution.
+- **Party Mode:** For high-stakes decisions, invoke multiple personas (Architect, Guardian, Challenger) to stress-test the solution.
 
 **Always look for the next click.**
